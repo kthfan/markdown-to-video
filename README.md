@@ -2,5 +2,5 @@
 
 ## Setup
 
-* install `requirements.txt`
-* Put ffmpeg the folder.
+* Install `requirements.txt`
+* Install ffmpeg.
