@@ -1,0 +1,7 @@
+pyttsx3
+edge-tts
+numpy
+markdown
+beautifulsoup4
+moviepy
+Pillow
